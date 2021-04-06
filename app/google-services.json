@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623730324779",
+    "firebase_url": "https://surakshith-abe12-default-rtdb.firebaseio.com",
+    "project_id": "surakshith-abe12",
+    "storage_bucket": "surakshith-abe12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623730324779:android:913893503e69d81095c16e",
+        "android_client_info": {
+          "package_name": "com.surakshith.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623730324779-qunnu4l1qguu2d7j3n6k0vic5r9r572f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJRZp4j22CG3L7HDGlN2bL9K9-s7wkBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623730324779-pi4jt1hcdufvvqioe0bogi8fqcmdg75s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
